@@ -23,3 +23,7 @@ Mostly free resources for designers
 
 - http://fontpair.co/ - Help with pairing fonts
 - https://fonts.google.com/ - Awesome collection of free to use fonts
+
+## Icons
+
+- https://www.iconfinder.com/ - Free icons
