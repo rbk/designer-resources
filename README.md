@@ -19,7 +19,7 @@ Mostly free resources for designers
 - https://www.pexels.com - Free stock photos
 - https://videos.pexels.com/ - Free Stock Videos
 
-# Typography
+## Typography
 
 - http://fontpair.co/ - Help with pairing fonts
 - https://fonts.google.com/ - Awesome collection of free to use fonts
